@@ -1,0 +1,119 @@
+Copyright (c) 2025 Billy Coleman III
+
+All Rights Reserved
+
+INFRASTRUCTURE AS AN ORGANISM
+By Billy Coleman III (Buddha)
+
+================================================================================
+
+TERMS AND CONDITIONS
+
+1. COPYRIGHT NOTICE
+
+This work, "Infrastructure as an Organism" (including both the Technical
+Edition and Vibe Coder Edition), along with all associated content, foreword,
+business analysis, code examples, configurations, and documentation
+(collectively, "the Work"), is the intellectual property of Billy Coleman III.
+
+Copyright © 2025 Billy Coleman III. All rights reserved.
+
+2. PERMITTED USE
+
+Permission is granted to:
+- View and read the Work on GitHub or other platforms where officially hosted
+- Fork this repository for personal study and reference
+- Share links to this repository
+
+3. PROHIBITED USE
+
+The following actions are expressly prohibited without prior written
+permission from the copyright holder:
+
+- Reproduction, distribution, or publication of the Work in whole or in part
+- Commercial use, including but not limited to selling, licensing, or
+  monetizing the Work
+- Creating derivative works, translations, or adaptations
+- Using the Work's content, code examples, or materials in commercial
+  products, courses, or training materials
+- Removing or altering copyright notices, attributions, or license terms
+- Claiming authorship or ownership of the Work or any portion thereof
+
+4. CODE EXAMPLES
+
+Code examples provided in the Work are for educational purposes only. While
+you may study and learn from these examples, any production use requires:
+- Substantial modification and adaptation to your specific use case
+- Independent verification and testing
+- Compliance with all applicable laws and regulations
+
+The code examples are provided "AS IS" without warranty of any kind.
+
+5. COMMERCIAL LICENSING
+
+For commercial licensing inquiries, bulk purchases, corporate training, or
+other business use cases, please contact the author through:
+- GitHub: @prodbybuddha
+- LinkedIn: prodbybuddha
+
+6. ATTRIBUTION
+
+Any permitted use must include proper attribution:
+"Infrastructure as an Organism" by Billy Coleman III (Buddha)
+https://github.com/ProdByBuddha/infra-as-an-organism
+
+7. DISCLAIMER
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+WORK.
+
+8. TERMINATION
+
+Any unauthorized use of the Work automatically terminates your rights under
+this license. Upon termination, you must destroy all copies of the Work in
+your possession.
+
+9. AI AND LANGUAGE MODEL TRAINING
+
+The Work shall not be used for training artificial intelligence models,
+language models, or machine learning systems without explicit written
+permission from the copyright holder.
+
+10. SEVERABILITY
+
+If any provision of this license is found to be unenforceable or invalid,
+that provision shall be limited or eliminated to the minimum extent necessary
+so that this license shall otherwise remain in full force and effect.
+
+11. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws
+of the State of California, United States of America.
+
+================================================================================
+
+For questions about licensing or permissions, please contact:
+Billy Coleman III (Buddha)
+https://github.com/ProdByBuddha
+https://linkedin.com/in/prodbybuddha
+
+================================================================================
+
+ACKNOWLEDGMENT OF AI COLLABORATION
+
+This work was created in collaboration with Claude (Anthropic), an AI
+assistant. The curation, vision, systems thinking, and creative direction are
+entirely human. The AI served as a collaborator in generating code examples,
+structuring content, and expanding on concepts.
+
+This collaboration model is celebrated and disclosed transparently as part of
+the book's philosophy: "AI doesn't replace human creativity—it reveals it."
+
+================================================================================
+
+Last Updated: October 2025
