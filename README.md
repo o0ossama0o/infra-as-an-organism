@@ -166,7 +166,6 @@ When more people understand infrastructure, more people can:
 ## 📚 Additional Resources
 
 - **Foreword:** Personal transformation story and motivation
-- **Business Analysis:** Strategic assessment from multi-expert panel
 - **Technologies:** Kubernetes, Docker, Terraform, Ansible, Kafka, Prometheus, Grafana, PostgreSQL, Redis, GitHub Actions, ArgoCD, Airflow, ClickHouse, BullMQ, Temporal, and 35+ more
 
 ---
