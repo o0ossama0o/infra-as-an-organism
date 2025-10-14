@@ -77,6 +77,7 @@ Growing up in Benton Harbor, Michigan, and moving to Los Angeles in October 2022
 - **October 2025:** Book completed
 
 ### Connect
+- **Community:** [Vibe Coding on Skool](https://skool.com/vibe-coding)
 - GitHub: [@prodbybuddha](https://github.com/prodbybuddha)
 - LinkedIn: [prodbybuddha](https://linkedin.com/in/prodbybuddha)
 - X/Twitter: [@prodbybuddha](https://x.com/prodbybuddha)
@@ -128,6 +129,18 @@ Every chapter came from understanding systems thinking. Every metaphor connectin
 The AI was a collaborator—a very advanced, very capable pair programmer who never got tired and could generate code in any language needed.
 
 **This is the future of creation. When done right, it's a future where more people create, not fewer.**
+
+---
+
+## 👥 Join The Community
+
+**[Vibe Coding on Skool](https://skool.com/vibe-coding)** is where readers of this book come together to learn, share, and grow. Whether you're working through the Technical Edition or the Vibe Coder Edition, join a community of learners breaking down barriers in tech education.
+
+- Ask questions and get help
+- Share your infrastructure journey
+- Connect with other vibe coders and technical developers
+- Access exclusive resources and discussions
+- Be part of the movement to democratize tech knowledge
 
 ---
 
