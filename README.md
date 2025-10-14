@@ -66,7 +66,7 @@ This book breaks down traditional barriers in tech education by offering two com
 
 ## 👤 About The Author
 
-**Billy Coleman III** (known as Buddha) is a self-taught infrastructure engineer who transformed from music producer to senior-level developer in 15 months. After nearly facing homelessness in July 2024, Billy isolated to the IDE and achieved what multiple language models confirmed were accomplishments worth six and seven figures in value.
+**Billy Coleman III** (known as Buddha) is a self-taught solutions architect who transformed from music producer to senior-level developer in 15 months. After nearly facing homelessness in July 2024, Billy isolated to the IDE and achieved what multiple language models confirmed were accomplishments worth six and seven figures in value.
 
 Growing up in Benton Harbor, Michigan, and moving to Los Angeles in October 2022, Billy brings a unique perspective shaped by both creative and analytical thinking. This book represents not just technical knowledge, but a mission: **leveling the playing field in tech education.**
 
