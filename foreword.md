@@ -54,7 +54,7 @@ This structure isn't arbitrary. It's intentional. Because I believe that **techn
 
 The gatekeeping in tech has to end. The idea that only certain people with certain backgrounds can understand "real" engineering is a lie that serves power structures, not progress. I've watched language models become so advanced they're actually reliable. I've used them to create this book—not to replace my thinking, but to amplify it.
 
-The curation is human. The vision is human. The understanding of systems is human. But the tools we have now? They make it possible for someone who was broke in July to write a comprehensive infrastructure book by October.
+The curation is human. The vision is human. The understanding of systems is human. But the tools we have now? They make it possible for someone who was broke in July 2024 to write a comprehensive infrastructure book by October 2025.
 
 If that doesn't prove that the old barriers are falling, I don't know what does.
 
